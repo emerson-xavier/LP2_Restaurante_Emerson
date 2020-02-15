@@ -1,0 +1,125 @@
+
+body{
+	opacity: .9;
+	background:#6E6E6E;
+	font: normal 15pt Arial;
+}
+h1{
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+
+img{
+border-radius: 8px;
+opacity: 1;
+position: absolute;
+top: -30px;
+margin-left: 230px;
+	width: 110px;
+	height: 110px;
+}
+h4#login{
+position: absolute;
+left: 240px;
+margin-top: 75px;
+}
+
+
+section#body{
+display: block;
+position: absolute;
+left: 420px;
+top:80px;
+color: #F7F8E0;
+border-radius: 4px;
+background: #1C1C1C;
+padding: 15px;
+margin: auto;
+width: 550px;
+height: 520px;
+
+}
+div {
+	text-align: center;
+	padding: 10px;
+}
+div#preencher{
+	margin: 90px 0px 10px 10px;
+}
+a{
+	text-decoration: none;
+}
+input#nome{
+	position: absolute;
+	right: 50px;
+	width: 350px;
+}
+label#nome{
+margin-left: -400px;
+}
+input#email{
+	position: absolute;
+	right: 50px;
+	width: 350px;
+}
+label#email{
+margin-left: -400px;
+}
+input#cpf{
+	position: absolute;
+	right: 50px;
+	width: 350px;
+}
+label#cpf{
+margin-left: -400px;
+}
+input#rg{
+	position: absolute;
+	right: 50px;
+	width: 350px;
+}
+label#rg{
+margin-left: -400px;
+}
+input#tel{
+	position: absolute;
+	right: 50px;
+	width: 350px;
+}
+label#tel{
+margin-left: -400px;
+}
+input#senha{
+	position: absolute;
+	right: 50px;
+	width: 350px;
+}
+label#senha{
+margin-left: -400px;
+}
+input#end{
+	position: absolute;
+	right: 50px;
+	width: 350px;
+}
+label#end{
+margin-left: -400px;
+}
+input#cep{
+	position: absolute;
+	right: 50px;
+	width: 350px;
+}
+label#cep{
+margin-left: -400px;
+}
+input#butao{
+	opacity: 0.6
+	color: #151515;
+	width: 100px;
+	height: 30px;
+}
+input{
+	border-radius: 4px;
+}

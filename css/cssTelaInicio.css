@@ -1,0 +1,166 @@
+
+body{
+font: normal 15pt Arial;
+background: #fff;
+background-size: 100%;
+}
+
+img#tapioca{
+border: 1px solid #2A0A0A;
+border-radius: 20px;
+padding: 15px;
+background-color: #151515;
+	position: absolute;
+	top:9px;
+	width: 175px;
+	height: 100px;
+	left: 16px;
+
+}
+*{
+padding:0; margin:0;
+
+}
+img#hamburguer{
+border: 1px solid #2A0A0A;
+border-radius: 20px;
+padding: 10px;
+padding-top:0px;
+background-color: #151515;
+	position: absolute;
+	top:8px;
+	width: 170px;
+	height: 120px;
+	left: 250px;
+
+}
+img#sucos{
+border: 1px solid #2A0A0A;
+border-radius: 20px;
+padding: 5px 30px 5px 30px;
+background-color: #151515;
+	position: absolute;
+	top: 9px;
+	width: 120px;
+	height: 120px;
+	left: 470px;
+
+}
+img#enroladinho{
+border: 1px solid #2A0A0A;
+border-radius: 20px;
+padding: 5px 30px 2px 30px;
+background-color: #151515;
+	position: absolute;
+	top:10px;
+	width: 130px;
+	height: 120px;
+	left: 680px;
+
+}
+
+section#logo{
+	position: absolute;
+	top:0px;
+	/*background: #2A0A0A;*/
+background-color: #151515;
+	width: 1348px;
+	left: 0px;
+	height: 60px;
+	right:0px;
+}
+section#lateral{
+	position: absolute;
+	top:60px;
+	padding-top: 220px;
+	background: #424242;
+	height: 600px;
+	width: 190px;
+	left: 0px;
+}
+
+h1{
+	top: 5px;
+	color: #ffffff;
+	position: absolute;
+	left: 35px;
+
+
+}
+h1#ofertas{
+font: normal 20pt Arial;
+	position: absolute;
+	color: #ffffff;
+	margin-top: 106px;
+padding-top: 0px;
+padding-left: 15px;
+padding-right: 20px;
+padding-bottom: 30px;
+background-color: #151515;
+	border-radius: 15px;
+   left: 308px;
+}
+div#inicial{
+	width: 100%;
+	height: 100%;
+}
+
+
+section#images{
+border: 4px solid #2A0A0A;
+border-radius: 20px;
+position: absolute;
+margin-top: 150px;
+left: 300px;
+background: #ffffff;
+width: 900px;
+height: 150px;
+
+}
+p#navegacao{
+	background: #151515;
+	padding: 10px 48px 8px 40px;
+	position: absolute;
+	top:180px;
+	color: #ffffff;
+	left: 0px;
+}
+label{
+position: relative;
+left: 50px;
+}
+
+img{
+	padding: 3px;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 20px;
+}
+
+a{
+	position: relative;
+	color: #ffffff;
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+
+.menu a{
+	
+	display: block;
+	border-bottom: 1px solid  ;
+	padding: 10px 0 10px 15px;
+}
+.menu a:hover {
+	background-color: rgba(121, 165, 162, .6);
+
+}		
+
+.main ul{
+	display: none;
+}
+.main li:hover ul{
+	display: block;
+}
